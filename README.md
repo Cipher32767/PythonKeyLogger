@@ -1,0 +1,2 @@
+# PythonKeyLogger
+A .pyw keylogger. When ran: Logs all the keystrokes, and saves them into a text file. How to use: Download the .pyw file, create a text file named "logs", run the .pyw file, all the keystrokes will be saved in logs.txt. How to stop the program: In the task manager, scroll down until you find a process called "Python (32 bit)", end the task. Enjoy. DISCLAMER: I AM NOT IN ANY WAY RESPONSIBLE FOR YOUR ACTIONS! THIS WAS MADE ONLY FOR RESEARCH AND EDUCATIONAL PURPOSES!
